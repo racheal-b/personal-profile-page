@@ -8,7 +8,7 @@
     padding: 0;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    color: #222;
+    color: #F8F9F9;
     background: #EBF5FB;
   }
   /* Link Styles */
@@ -57,7 +57,7 @@
   
   header {
     text-align: center;
-    background: url('images/grey.jpg') no-repeat center ;
+    background-color: #2C3E50;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
@@ -141,7 +141,7 @@
     }
   
     header {
-      min-height: 470px;
+      min-height: 200px;
     }
   
     .nav {
